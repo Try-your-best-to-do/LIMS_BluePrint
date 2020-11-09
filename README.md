@@ -12,6 +12,10 @@ LIMS designing Task for HZU （实验室管理系统蓝图）
 
 > 关于相关工具的来源以及使用使用方法列举在下面
 
+* [Typora](https://typora.io/)
+
+> Markdown(.md)文件编辑器，这个页面同样使用该工具做出
+
 * [幕布](https://mubu.com/)
 
 > 大纲笔记，因为可以共享的同时使用思维导图（交流专用）
