@@ -23,7 +23,8 @@ LIMS designing Task for HZU （实验室管理系统蓝图）
 * 学习资料
   1. [bootstrap工具--快速出原形，需要多微调](https://www.bootcss.com/p/layoutit/)
   2. [另一个BS工具](http://www.ibootstrap.cn/)
-  3. 
+
+
 
 #### 图层分析设计
 
@@ -31,11 +32,24 @@ LIMS designing Task for HZU （实验室管理系统蓝图）
 
 ##### 思维导图文件
 
+
+
 ##### 草稿记录文件
+
+
 
 ##### 亿图文件
 
-#### 前端代码
+
+
+#### 前端代码文件夹 （frontend）
+
+---
+
+* 命名方式：页面形式
+* 文件层次：
+  * 文件夹网页前端
+  * 根目录中存在截图
 
  
 
