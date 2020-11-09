@@ -6,11 +6,6 @@ LIMS designing Task for HZU （实验室管理系统蓝图）
 
 ----
 
-
-[TOC]
-
-
-
 ### 项目结构
 
 ----
